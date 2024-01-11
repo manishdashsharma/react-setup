@@ -152,7 +152,6 @@ Create a simple `public/index.html` file. It's like designing the trophy for you
 Update the `scripts` section in `package.json` because every race car needs a pit crew:
 
 ```json
-// The pit crew is ready to roll!
 "scripts": {
   "start": "webpack serve --mode development --open",
   "build": "webpack --mode production"
